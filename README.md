@@ -7,10 +7,10 @@ I'm a Software Engineer, who currently works as a Developer at [Ietech](https://
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Node.js.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, Blockchain Developer or Backend Engineer (Intern or Junior level).
+- 💡 Fun fact: I completed my study at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 🌱 I have knowledge in JavaScript, Node.js, C#, React, Angular and Python for Data Science.
+- 😊 I’m looking for open source projects, hackathons, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, Blockchain Developer, Data scientist or Backend Engineer (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing walemust28@gmail.com.
 
 ---
